@@ -1,1 +1,2 @@
 1.  if(n & (n - 1))  checks if the number n is the power of 2 or not
+if (n & (n - 1))  // not a power of 2
